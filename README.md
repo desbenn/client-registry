@@ -1,2 +1,2 @@
 # Client Registry
-Client Registry smart contract. 
+Client Registry smart contract...
